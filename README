@@ -1,0 +1,28 @@
+Introduction
+============
+
+This is akshayaguna, version 0.1.0
+Use api in a new way. Without writing the codes for using api again and again, just use the akshayaguna script.
+Easy to modify, change functionality, easy to code
+
+Installation Steps
+=================
+1) Download the tar.gz
+2) untar it & cd akshayaguna
+3) mkdir build
+4) ../configure --prefix=
+5) make
+6) make install
+
+Reporting Bugs
+==============
+
+Bug reports for akshayaguna should be sent to:
+
+	samrat48@hotmail.com
+
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.  This file is offered as-is,
+without any warranty.

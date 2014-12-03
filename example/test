@@ -1,0 +1,4 @@
+#!/bin/akshayaguna
+HELLO % abc ?
+EVENT % SENSOR A>10 ? MODBUS % WRITE R10 HIGH ?
+LOG % Hello World ?
